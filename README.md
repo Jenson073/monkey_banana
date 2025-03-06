@@ -27,7 +27,8 @@ The goal is to determine **the sequence of actions** for the monkey to get the b
 
 ## 🚀 **Installation & Usage**  
 
-### 🔧 **Requirements**  
+### 🔧 **Requirements and Running**  
 Make sure you have Python installed. Then, install dependencies:  
 ```bash
 pip install pygame
+python monkey_banana.py
